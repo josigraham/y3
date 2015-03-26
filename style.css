@@ -43,7 +43,7 @@ height: 250px;
 }
 p {
 color: #FFF;
-background-color:#00ffff;
+background-color:#green;
 font-family: Impact, Haettenschweiler, “Arial Bold”, sans-serif;
 margin: 15px;
 padding: 20px;
@@ -90,7 +90,7 @@ transition: .4s;
 }
 #top a:hover {
 color: #000000;
-background-color: #00ffff;
+background-color: #green;
 font-size: 20px;
 transition: .4s;
 -o-transition-transition: .4s;
